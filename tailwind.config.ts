@@ -57,6 +57,15 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        rose: {
+          soft: "hsl(var(--rose-soft))",
+          medium: "hsl(var(--rose-medium))",
+          deep: "hsl(var(--rose-deep))",
+        },
+        diamond: {
+          shimmer: "hsl(var(--diamond-shimmer))",
+          glow: "hsl(var(--diamond-glow))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
